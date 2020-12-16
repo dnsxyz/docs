@@ -24,6 +24,7 @@ OPTIONS
   --alias=alias                      email address for alias action
   --body=body                        file to take webhook body from
   --domain=domain                    constrain trigger to emails are from an email address with the given domain
+  --firsttimesender                  constrain trigger to emails that are the first seen from the sending address
   --from=from                        constrain trigger to emails from the specified address
   --hasattachments                   constrain trigger to emails with attachments
   --hasthewords=hasthewords          constrain trigger to emails that have the words specified
