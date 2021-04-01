@@ -1,4 +1,5 @@
-# Mailscript docs
+# Mailscript docs (DEPRECATED)
+**This is no longer supported, please consider using [cli docs](https://github.com/mailscript/cli/tree/main/docs) instead** 
 
 ## Dev
 
